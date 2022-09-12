@@ -104,7 +104,7 @@
         "stock": 560
     }]);
 
-	•	Para insertar algunos carritos
+	•	Para insertar algunos chat
 	db.chat.insertMany([{timestamp: ISODate()}, {timestamp: ISODate()}])
 	•	Para listar todos los productos
 	db.productos.find();
